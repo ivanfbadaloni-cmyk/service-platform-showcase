@@ -1,0 +1,11 @@
+# Deny-by-default: documentation files are intentionally allowlisted.
+*
+!README.md
+!LICENSE.md
+!NOTICE.md
+!SECURITY.md
+!ROADMAP.md
+!.gitignore
+!docs/
+docs/*
+!docs/ENGINEERING.md
